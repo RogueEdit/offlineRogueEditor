@@ -91,19 +91,3 @@ jobs:
             compiled/editor/data/
             compiled/patch/patcher-mac.sh
             compiled/patch/game-data.ts
-            
-      - name: Commit Artifacts
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git pull origin
-          git add .
-          git commit -m "Automated build"
-          git push origin
-
-
-          https://raw.githubusercontent.com/devicons/devicon/master/icons/algolia/algolia-original.svg
-          https://raw.githubusercontent.com/devicons/devicon/master/icons/algolia/algolia-original.svg
-          https://raw.githubusercontent.com/devicons/devicon/master/icons/algolia/algolia-original.svg
-          https://raw.githubusercontent.com/devicons/devicon/master/icons/algolia/algolia-original.svg
-          https://raw.githubusercontent.com/devicons/devicon/master/icons/algolia/algolia-original.svg
