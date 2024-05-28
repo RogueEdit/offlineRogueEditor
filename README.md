@@ -1,7 +1,7 @@
 # OfflineRogueEditor
 > **OfflineRogueEditor** is a solution for editing save files in an local ran version of pokerogue written in Python.
 
-> [If you are looking for an Editor to edit your Official Online Saves - Check this out](https://github.com/claudiunderthehood/OnlineRogueEditor/)
+> [If you are looking for an Editor to edit your Official Online Saves - Check this out](https://github.com/rogueEdit/OnlineRogueEditor/)
 
 > [Join our Discord for more information and hangouts!](https://discord.gg/8ZAnsZfVQP)
 
