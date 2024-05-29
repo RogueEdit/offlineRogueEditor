@@ -3,13 +3,15 @@
 
 > [If you are looking for an Editor to edit your Official Online Saves - Check this out](https://github.com/rogueEdit/OnlineRogueEditor/)
 
-> [Join our Discord for more information and hangouts!](https://discord.gg/8ZAnsZfVQP)
+[<img src="https://img.shields.io/badge/Join%20our%20News-Discord!-8A2BE2">](https://discord.gg/8ZAnsZfVQP)
 
 ![Preview Image](.github/preview.png)
 
-## To offline play in the first place you need
+[Feature & Bugboard aswell as Roadmap](https://github.com/orgs/RogueEdit/projects/8)
 
-- [Official pokerogue's version](https://github.com/pagefaultgames/pokerogue)
+## To offline play in the first place you need either
+
+- [Official pokerogue's version](https://github.com/pagefaultgames/pokerogue) or
 - [Admiral-Billy's version](https://github.com/Admiral-Billy/Pokerogue-App)
 
 ## Using the tool for the Admiral-Billy's version
@@ -89,6 +91,13 @@
 - Displays all the moves's IDs
   
 
+## FAQ
+- Will this get me banned?
+  - We dont know. It's offline so what should happen.
+
+- Where can i donate?
+  - We will not accept any money or any form of payment. If you want to help then only by contributing.
+
 ## Warning
 
 We take no responsibility for your actions when using this script. 
@@ -97,6 +106,7 @@ The AntiVirus might label it as a virus. All the source code is available into t
 
 ## Installation GIF for AdmiralBilly's Version
 ![alt text](.github/install-for-billy.gif)
+
 <!-- Metadata: keywords -->
 <meta name="description" content="is a solution for editing save files in the offline version for pokerogue written in Python.">
 <meta name="keywords" content="pokerogue, pokerogue save editor, pokerogue hacks, pokerogue hack, pokerogue cheats, pokerogue cheat, pokerogue trainer, pokerogue cheat table, rogueEditor, free, gacha, ticket, tickets, egg, eggs, shiny, save, edit, pokemon, unlimited, hack, hacks, cheat, cheats, trainer, table, pokedex, dex, wave, money, level, levels, iv, ivs, stat, stats, item, items, api, mod, mods, tool, tools">
