@@ -16,6 +16,7 @@
 ```diff
 - Remember to make backups of your unaltered data before editing it!
 + For an animated tutorial how to install, scroll to the bottom!
+- We take no responsibility for your actions when using this script. 
 ```
 - Step 1: Open the game and press M or ESC > Manage Data:
     - Export Data will prompt you to save a file named `data_Guest.prsv` which is is your savefile-data
@@ -87,11 +88,10 @@
 - [X] Show all moves IDs
 - Displays all the moves's IDs
   
-## Other Projects
-
-If you're interested in the online solution for this editor, make sure to checkout our repositories. (soon to be reavaiable again) Currently working on it with other people!
 
 ## Warning
+
+We take no responsibility for your actions when using this script. 
 
 The AntiVirus might label it as a virus. All the source code is available into the `src/` folder, and you can even decompile the exe files; they've been compiled with pyinstaller.
 
