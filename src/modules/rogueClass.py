@@ -209,7 +209,7 @@ class Rogue:
 
 
     def edit_pokemon_party(self):
-        data = self.load_data(1)
+        data = self.load_data(0)
         
         if data is None:
             return
